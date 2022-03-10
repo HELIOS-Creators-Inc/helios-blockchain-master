@@ -1,10 +1,10 @@
 ## Installing and Storefront Setup
-
+x
 Clone the repo, specify `REACT_APP_STORE_OWNER_ADDRESS_ADDRESS` in the .env file and run
 
 ```bash
 $ git clone https://github.com/metaplex-foundation/metaplex.git
-$ cd metaplex/js
+$ cd /js
 $ yarn install && yarn bootstrap && yarn build
 $ yarn start
 ```
