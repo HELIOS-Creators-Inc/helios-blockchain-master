@@ -3,7 +3,7 @@ x
 Clone the repo, specify `REACT_APP_STORE_OWNER_ADDRESS_ADDRESS` in the .env file and run
 
 ```bash
-$ git clone https://github.com/metaplex-foundation/metaplex.git
+$ git clone https://github.com/HELIOS-Creators-Inc/helios-blockchain-master.git
 $ cd /js
 $ yarn install && yarn bootstrap && yarn build
 $ yarn start
